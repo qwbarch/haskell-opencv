@@ -1,3 +1,5 @@
+## This fork only exists as a snapshot for reproducibility purposes.
+
 [![Build Status](https://travis-ci.org/LumiGuide/haskell-opencv.svg)](https://travis-ci.org/LumiGuide/haskell-opencv)
 
 [opencv ![Hackage](https://img.shields.io/hackage/v/opencv.svg)](https://hackage.haskell.org/package/opencv)
